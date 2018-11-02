@@ -26,6 +26,8 @@
 
 - [Google’s New Manager Training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/) - by Google. Takeaway: Training materials that Google uses to help transition an individual contributor to a manager, including a manager facilitation training guide and exercises for students. 
 
+- [How to Fail as a New Engineering Manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a?gi=d8e3809e74c1) - by Brad Armstrong. Takeaway: You can fail by continuing to code; focusing only on work, not people; measuring your value by your output; expecting without expressing; leaving the team out of commitments; mistaking directing for leading; avoiding hard conversations; not learning your craft anymore.
+
 - [How to Make the Leap from Engineer to Manager](http://blog.newrelic.com/2014/07/23/measuring-manager-success/) - by Kirby Frugia at New Relic. Takeaway: "The key to making processes work is to make incremental changes, measure them, and then improve them." Also, managerial success and developer success differ in that the former is often achieved through others, more about strategic impact, and happen less frequently.
 
 - [How to Win Friends and Influence People](https://docs.google.com/document/d/1453UrSTkum5KrbX7SwwaUDVljP2uvDiHk6fIXNCxOCc/edit) - by Dale Carnegie; summary by Joe Goldberg. Notes on the legendary book, whose mention might make you wince but we suggest getting past that. :) 
@@ -117,5 +119,7 @@
 - [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) - by Martin Casado. Takeaway: A VPE is responsible for product planning, building the engineering team and culture, ensuring execution, maintaining morale, delivering quality releases on time.
 
 - [The Role of a VP of Engineering](https://blog.brunomiranda.com/the-role-of-a-vp-of-engineering-648a09a3ad56) - by Bruno Miranda. Takeaway: VPEs are measured by the success of their team; set process in terms of "*why* we do what we do"; keep coding; manage up and down.
+
+- [What Does a VP of Engineering Do?](https://medium.com/@dandemeyere/what-does-a-vp-of-engineering-do-75da2086f74d) - by Dan DeMeyere. Takeaway: "VP’s of Engineering are essential to making sure the trains run on time and identifying the best way to lay down tracks. If the CTO knows the destination, the VPE is identifying the route to get there."
 
 - [“What Does a VP of Engineering Do, Again?”](https://medium.com/@raffi/what-does-a-vp-of-engineering-do-again-553817fbbf2a) - by Raffi Krikorian & Dave Loftesness. Takeaway: a VP Engineering's primary duties involve "establishing focus; leading and designing the engineering org; and representing engineering at the leadership level."

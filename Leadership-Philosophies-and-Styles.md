@@ -28,6 +28,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Etsy Lessons](http://larahogan.me/blog/etsy-lessons/) - by Lara Hogan. Takeaway: a collection of wisdom Hogan (now at Kickstarter) collected over her years at Etsy, about topics ranging from rethinking diversity hiring to how to deal with feeling shaky as a leader.
 
+- [Flavors of Engineering Management](http://blog.benjamin-encz.de/post/flavors-of-engineering-management/) - by Benjamin Encz. Takeaway: Encz has identified three types of leader — "tech lead engineering manager (typically technology stack focused team, still lots of coding, leadership via technical merits, good for recruiting); product team engineering manager (team spans multiple technology stacks, can touch on product management and project management, needs to think more about cross-functional interactions); people engineering manager (very focused on people aspects, has strong individual contributors who drive a lot of decision making, hiring, etc., can support larger team)."
+
 - [From College Dropout to CEO of a Billion-Dollar Company: 3 Leadership Lessons from the Founder of Hootsuite](https://www.cnbc.com/2017/10/05/3-leadership-lessons-from-hootsuite-ceo-ryan-holmes.html) - by Catherine Clifford. Takeaway: Start with the why, communicate often, and allow for facetime.
 
 - [The Future of Management](https://shift.newco.co/the-future-of-management-5914beda43d2) - by Esko Kilpi. Takeaway: "The future is accordingly described as goals and performance targets. Following this logic, the role of management is to control the movement into a chosen future. But what management really is, is about reduction of anxiety. Anxiety levels in the experiences of individuals most often depend on the perceived level of control people have over themselves and their environment. This drives our need to believe that someone is, or should be, in control."
@@ -94,6 +96,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Six Crucial Behaviors Of Collaborative Leaders](https://www.forbes.com/sites/carolkinseygoman/2017/07/11/six-crucial-behaviors-of-collaborative-leaders/#4050a9e38cbe) - by Carol Kinsey Goman. Takeaway: Silo-busting, building trust, aligning body language, promoting diversity, sharpening "soft" skills, and creating psychological safety are the six behaviors leaders need.
 
+- [6 Lessons from Lara Hogan on Humanizing Management](https://blog.gitprime.com/6-lessons-lara-hogan-humanizing-engineering-management/) - by GitPrime. Takeaway: Recalibrate what success looks like; learn what makes the individual grumpy, and how to know when they’re grumpy, how your report prefers feedback and recognition, and the person’s goals and needs (from you, from their team, etc.); use her three-part feedback behavior path; manage through crisis; optimize for long-term relationships, and develop your managers.
+
 - [Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/) - by Adam Buggia. Takeaway: covers six basics of effective leadership—1:1's, team surveys, psychological safety, building resilient teams, informing your department, and self-improvement—and provides "recipes" to achieve them.
 
 - [6 Things Great Leaders Do Differently](https://www.theladders.com/career-advice/six-things-great-leaders-do-differently) - by Travis Bradberry. Takeaway: They’re kind without being weak or expecting something in return, strong without being harsh, confident without being cocky, stay positive but remain realistic, are role models not preachers, and will do anything for their teams.
@@ -123,6 +127,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 - [Why Tim Cook is Steve Ballmer and Why He Still Has His Job at Apple](https://www.linkedin.com/pulse/why-tim-cook-steve-ballmer-he-still-has-his-job-apple-steve-blank) - by Steve Blank. Takeaway: "What happens to a company when a visionary CEO is gone? Most often innovation dies and the company coasts for years on momentum and its brand. Rarely does it regain its former glory." Uses Microsoft and Apple as examples.
 
 - [Why You Must Lead Differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=) - *Forbes* article by George Bradt.
+
+- [Who I Want to Work For](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202) - by Keavy. Takeaway: A GitHub senior engineer describes the leader she wants to work for.
 
 ### Famous Leaders
 
