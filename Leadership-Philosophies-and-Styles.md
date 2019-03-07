@@ -20,6 +20,8 @@ This topic comes first, because the following articles offer great frameworks/de
 - [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals/) - by Farnam Street. Takeaway: a series of bullet points identifying the differences. Examples: "Amateurs give up at the first sign of trouble and assume they’re failures. Professionals see failure as part of the path to growth and mastery;
 Amateurs don’t have any idea what improves the odds of achieving good outcomes. Professionals do." 
 
+- [Don’t Try to Be the “Fun Boss” — and Other Lessons in Ethical Leadership](https://hbr.org/2018/09/dont-try-to-be-the-fun-boss-and-other-lessons-in-ethical-leadership) - by Kimberly Nei and Darin Nei. Takeaway: Be humble, not charismatic; be steady and dependable; remember that modesty is the best policy, balance analysis with action, be vigilant — vulnerability increases over time.
+
 - [Effective Leaders](https://medium.com/@brendan_ward/effective-leaders-6f36e891706e) - by Brendan Ward. Takeaway: effective leaders set, communicate, and reinforce tangible goals toward broader impact. They set priorities and act strategically, share the opportunity to lead, and listen more than they talk. They are highly introspective, actively seek feedback, grow from their mistakes, and are constantly learning across a broad range of topics.
 
 - [Effective Leadership Styles for Scrum Masters](https://www.benlinders.com/2016/leadership-styles-scrum-masters/) - by Ben Linders. Takeaway: This post provides an overview of many effective leadership styles that Scrum masters can learn from and apply when working in agile teams, so that their teams can deliver value. Servant leadership alone is not enough.
@@ -65,6 +67,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 - [Leadership Is a Quality That You Can Teach Yourself](https://qz.com/659038/leadership-is-a-quality-that-you-can-teach-yourself/?__s=ns1epkqjs8qj1ggjuafv) - by Christian Bonilla. Takeaway: "To be a successful leader, you have to learn to consider how your work affects others, and how to work with people to get things done. The higher up you go in any organization, the harder it is to get things done on your own. So invest in building relationships every step of the way, and you’ll have more people who want to see you succeed when your time comes."
 
 - [Leadership Nudges](https://www.youtube.com/channel/UCM6PvFiH_weNCMCnFynTNdg) - by David Marquet. Takeaway: short, digestible videos about intent-based leadership, from being a "know all, tell not" leader to thinking long-term.
+
+- [Love Being a Lead](https://margint.blog/2019/02/16/love-being-a-lead-valentines-edition/) - by Mikio L. Braun. Takeaway: Love being a lead boils down to “Everything you do is about helping  those whom you lead do their work.
 
 - [Management Philosophy](https://3002.ca/posts/management-philosophy/) - by Gordon Radlein. Takeaway: A five-point philosophy: Trust above all else, feedback, give space to succeed or fail, find the right balance of process, and always have a vision.
 
@@ -123,6 +127,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 - [What Mistakes in Your Experience Does Management Keep Making?](https://news.ycombinator.com/item?id=15033156) - by Hacker News commenters. A list/online discussion about the many ways that tech management goes awry.
 
 - [What “S’Up”? Using Triads to Develop Tribal Leadership](https://medium.com/artsy-blog/what-sup-using-triads-to-develop-tribal-leadership-a01d4f207bf8) - by Daniel Doubrovkine. Takeaway: an exploration of Artsy’s weekly “S’Up” informal gathering of three randomly selected colleagues, which reinforces tribal leadership. “Stages of Tribal Leadership are often categorized by evaluating the number of connections and communication channels between team members, and triads are the most stable and valuable foundations, a building block of a Stage Four culture. S’Up is a tool we built that creates triads. The result can often feel inspiring and lead to durable communication channels at scale.”
+
+- [Why Should You Want to Lead People?](https://hackernoon.com/why-should-you-want-to-lead-people-edf8c10fd92f) - by Amit Goldshmidt. Takeaway: Reasons why you should and should not want to lead others.
 
 - [Why Tim Cook is Steve Ballmer and Why He Still Has His Job at Apple](https://www.linkedin.com/pulse/why-tim-cook-steve-ballmer-he-still-has-his-job-apple-steve-blank) - by Steve Blank. Takeaway: "What happens to a company when a visionary CEO is gone? Most often innovation dies and the company coasts for years on momentum and its brand. Rarely does it regain its former glory." Uses Microsoft and Apple as examples.
 
