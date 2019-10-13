@@ -1,8 +1,6 @@
 ## Meetings and Time Management
 
 ### Meetings
-  
-- [Declutter Your Meetings and Create Minimum Viable Meetings](https://zenkara.wordpress.com/2015/09/21/declutter-your-meetings-and-create-minimum-viable-meetings/) - by Zenkara. Takeaway: Run Minimum Viable Meetings, which include the absolute fewest participants with only critical topics for meeting objectives. "Schedule the fewest meetings possible and as early as possible; have the result and outcome that you are satisfied with."
 
 - [A Field Guide to Dudes Who Ruin Meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw) - by Jim Babb. Takeaway: tips on thow to deal with Cool Tool, Mister Details, Professor This-is-Bullshit and other meeting-ruiners.
 
@@ -59,6 +57,8 @@
   Henrik Kniberg. Takeaway: Focus on extracting more value from your available
   time. “Busy-ness” is an artificial concept. Build slack into your schedule to
   achieve better focus.
+  
+- [From Inbox-Zero to Todo-List-Zero](https://medium.com/practical-empathy/from-inbox-zero-to-todo-list-zero-cb273137d1a7) - by Joe Goldberg. Takeaway: "Todo List Zero: Stuff on your to-do list that needs more than a moment to resolve should get onto your calendar. Block out time in advance for [this], at the time of day where you get your best work done (figure this out if you don’t already know). Also block out time for self-initiated tasks: time to do nothing but think, time to learn and read, etc."
 
 - [Gatekeepers and Gardeners](http://product.hubspot.com/blog/gatekeepers-and-gardeners) - by Jared Williams. Takeaway: "To manage, new leaders often adopt the role of a gatekeeper early on and have a hard time letting go...A gatekeeper controls the flow of information in an attempt to narrow focus and avoid surprises." Be a gardener instead. "A gardener trusts, encourages autonomy, and exposes their team to higher level problems. Gardeners turn scaling and growth into a team sport."
 
